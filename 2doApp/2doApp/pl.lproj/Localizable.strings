@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  2doApp
+
+  Created by Michal T on 06/11/2021.
+  
+*/
+
+"NO_DATA_TEXT" = "Brak zadań. Dodaj nowe zadanie \nklikając w ikonę dodawania w prawym górnym rogu";
+"REMOVE" = "Usuń";
+"DELETE_TITLE" = "Usuwanie zadania";
+"DELETE_MESSAGE" = "Na pewno chcesz usunąć wybrane zadanie?";
+"YES_REMOVE" = "Tak, usuń";
+"NO" = "Anuluj";
+"EDIT" = "Edytuj";
+"ADD_SUCCESS_TITLE" = "Sukces";
+"ADD_SUCCES_MESSAGE" = "Zadanie dodane pomyślnie";
+"OK" = "OK";
+"EDIT_TITLE" = "Edytuj zadanie";
+"ADD_ERROR" = "Błąd";
+"ADD_ERROR_MESSAGE" = "Wypełnij wszystkie pola";
+"WORK_LIST" = "Praca";
+"PERSONAL_LIST" = "Osobiste";
+"OTHER_LIST" = "Inne";

@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  2doApp
+
+  Created by Michal T on 06/11/2021.
+  
+*/
+
+"NO_DATA_TEXT" = "No data added. Add new entry \nby pressing the add icon on top right.";
+"REMOVE" = "Delete";
+"DELETE_TITLE" = "Delete task";
+"DELETE_MESSAGE" = "Do you really want to remove selected task?";
+"YES_REMOVE" = "Delete";
+"NO" = "Cancel";
+"EDIT" = "Edit";
+"ADD_SUCCESS_TITLE" = "Success";
+"ADD_SUCCES_MESSAGE" = "Task added successfully";
+"OK" = "OK";
+"EDIT_TITLE" = "Edit Task";
+"ADD_ERROR" = "Error";
+"ADD_ERROR_MESSAGE" = "Please fill in all fields";
+"WORK_LIST" = "Work";
+"PERSONAL_LIST" = "Personal";
+"OTHER_LIST" = "Other";

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Task Title"; ObjectID = "1od-Hk-MjV"; */
+"1od-Hk-MjV.text" = "Task Title";
+
+/* Class = "UITextField"; placeholder = "Name of the task"; ObjectID = "3Rh-XY-TYa"; */
+"3Rh-XY-TYa.placeholder" = "Opis zadania";
+
+/* Class = "UILabel"; text = "List"; ObjectID = "4KR-pA-dIm"; */
+"4KR-pA-dIm.text" = "Lista";
+
+/* Class = "UINavigationItem"; title = "Add Task"; ObjectID = "F5g-JE-wjf"; */
+"F5g-JE-wjf.title" = "Dodaj zadanie";
+
+/* Class = "UINavigationItem"; title = "2do"; ObjectID = "Vag-R8-EJ4"; */
+"Vag-R8-EJ4.title" = "2do";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "asj-ZY-utB"; */
+"asj-ZY-utB.text" = "Termin";
+
+/* Class = "UILabel"; text = "Due Date"; ObjectID = "elN-I7-aEV"; */
+"elN-I7-aEV.text" = "Termin";
